@@ -62,17 +62,18 @@ Basic cleaning includes:
 
 ```text
 mlb-free-agent-value/
-  ├─ README.md               # This file
+  ├─ README.md               # Project overview (this file)
   ├─ requirements.txt        # Python dependencies
   ├─ data/
-  │    └─ baseballcase_data.csv
+  │    ├─ baseballcase_data.csv
+  │    └─ baseballcase_data_glossary.xlsx
   ├─ notebooks/
   │    ├─ 01_descriptive_analysis.ipynb
   │    └─ 02_predictive_modeling.ipynb
   ├─ src/
   │    ├─ data_cleaning.py   # Shared cleaning utilities
-  │    ├─ descriptive.py     # (optional) helpers for visuals/tables
-  │    └─ predictive.py      # (optional) helpers for modeling
+  │    ├─ descriptive.py     # Helper functions for visuals/tables
+  │    └─ predictive.py      # Helper functions for modeling
   ├─ reports/
   │    ├─ descriptive_report.pdf
   │    └─ predictive_report.pdf
