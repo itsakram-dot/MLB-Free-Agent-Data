@@ -1,4 +1,4 @@
-# MLB-Free-Agent-Data
+# MLB-Free-Agent-Analysis
 # Evaluating MLB Free Agent Value Through Data Analytics
 
 This project analyzes MLB free-agent batters (1998–2013) to answer a simple
@@ -70,10 +70,6 @@ mlb-free-agent-value/
   ├─ notebooks/
   │    ├─ 01_descriptive_analysis.ipynb
   │    └─ 02_predictive_modeling.ipynb
-  ├─ src/
-  │    ├─ data_cleaning.py   # Shared cleaning utilities
-  │    ├─ descriptive.py     # Helper functions for visuals/tables
-  │    └─ predictive.py      # Helper functions for modeling
   ├─ reports/
   │    ├─ descriptive_report.pdf
   │    └─ predictive_report.pdf
