@@ -1,4 +1,5 @@
 # MLB-Free-Agent-Analysis
+![yyrteww](https://github.com/user-attachments/assets/58ce30b2-f2da-4e96-bce6-6485905ae56a)
 # Evaluating MLB Free Agent Value Through Data Analytics
 
 This project analyzes MLB free-agent batters (1998–2013) to answer a simple
